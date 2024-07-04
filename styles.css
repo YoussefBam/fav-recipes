@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.image{
+    width: auto;
+    height: 300px;
+    margin-right: 5px;
+}
+
+.container{
+    margin-top: 9%;
+}
